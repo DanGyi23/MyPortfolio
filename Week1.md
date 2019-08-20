@@ -14,7 +14,7 @@
 
 #### Evidence:
 1.
-2. Screencaps here
+2. Screencaps [here](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/wk1-debug-cipher.mp4) and [here](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/wk1-debug-fizzbuzz.mp4)
 3.
 4.
 
