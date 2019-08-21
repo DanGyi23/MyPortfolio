@@ -23,11 +23,11 @@
 #### Tuesday 20th August
 - GOAL: To be able to debug something
 - PLAN: Work through the debugging exercises - Fizzbuzz and Decoder
-- EVIDENCE: Screencap videos as above - both debugged. Would like to clean up nilclass exceptions if I have more time, but not crucial.
+- EVIDENCE: **Fizzbuzz/Decoder videos** Screencaps [here](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/wk1-debug-cipher.mp4) and [here](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/wk1-debug-fizzbuzz.mp4) - both debugged.
 
 #### Wednesday 21st August
 - GOAL: Understand some basic principles of OO programming - encapsulation and SRP
 - PLAN: Use the morning to work through OO exercises, perhaps recording progress.
 - EVIDENCE: 
-  * OOP repo in skills repository - updated with completed commit [here](https://github.com/DanGyi23/skills-workshops/tree/master/week-1/oop_1). Created instance of class and tested in IRB [here](https://github.com/DanGyi23/skills-workshops/blob/master/week-1/oop_1/IRB-test-Calc-Class.png). 
-  * MORE EVIDENCE: Repo [here](https://github.com/DanGyi23/skills-workshops/tree/master/practicals/object_oriented_design) with [screengrab](https://github.com/DanGyi23/skills-workshops/blob/master/practicals/object_oriented_design/SS-diary-1.png) of the code in action!
+  * **Calculator** OOP repo in skills repository - updated with completed commit [here](https://github.com/DanGyi23/skills-workshops/tree/master/week-1/oop_1). Created instance of class and tested in IRB [here](https://github.com/DanGyi23/skills-workshops/blob/master/week-1/oop_1/IRB-test-Calc-Class.png). 
+  * **Secret Diary** Repo [here](https://github.com/DanGyi23/skills-workshops/tree/master/practicals/object_oriented_design) with [screengrab](https://github.com/DanGyi23/skills-workshops/blob/master/practicals/object_oriented_design/SS-diary-1.png) of the code in action!
