@@ -28,5 +28,6 @@
 #### Wednesday 21st August
 - GOAL: Understand some basic principles of OO programming - encapsulation and SRP
 - PLAN: Use the morning to work through OO exercises, perhaps recording progress.
-- EVIDENCE: OOP repo in skills repository - updated with completed commit [here](https://github.com/DanGyi23/skills-workshops/tree/master/week-1/oop_1). Created instance of class and tested in IRB [here](https://github.com/DanGyi23/skills-workshops/blob/master/week-1/oop_1/IRB-test-Calc-Class.png). 
-- MORE EVIDENCE: Repo [here](https://github.com/DanGyi23/skills-workshops/tree/master/practicals/object_oriented_design) with [screengrab](https://github.com/DanGyi23/skills-workshops/blob/master/practicals/object_oriented_design/SS-diary-1.png) of the code in action!
+- EVIDENCE: 
+  * OOP repo in skills repository - updated with completed commit [here](https://github.com/DanGyi23/skills-workshops/tree/master/week-1/oop_1). Created instance of class and tested in IRB [here](https://github.com/DanGyi23/skills-workshops/blob/master/week-1/oop_1/IRB-test-Calc-Class.png). 
+  * MORE EVIDENCE: Repo [here](https://github.com/DanGyi23/skills-workshops/tree/master/practicals/object_oriented_design) with [screengrab](https://github.com/DanGyi23/skills-workshops/blob/master/practicals/object_oriented_design/SS-diary-1.png) of the code in action!
