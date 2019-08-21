@@ -15,7 +15,7 @@
 #### Evidence:
 1. Exhaustive step-wise Boris Bike challenge [here](https://github.com/DanGyi23/boris_bike_challenge) - commits demonstrate different stages of unit & feature testing. Completed as part of a pair.
 2. Screencaps [here](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/wk1-debug-cipher.mp4) and [here](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/wk1-debug-fizzbuzz.mp4)
-3. Wrote secret diary script with different methods, and checked that instances of the secretdiary class responded to each method contained within the class. Repo [here](https://github.com/DanGyi23/skills-workshops/tree/master/practicals/object_oriented_design) with [screengrab]https://github.com/DanGyi23/skills-workshops/blob/master/practicals/object_oriented_design/SS-diary-1.png of the code in action! Understood splitting classes into relevant grouped methods, making the code easier to navigate/understand.
+3. Wrote secret diary script with different methods, and checked that instances of the secretdiary class responded to each method contained within the class. Repo [here](https://github.com/DanGyi23/skills-workshops/tree/master/practicals/object_oriented_design) with [screengrab](https://github.com/DanGyi23/skills-workshops/blob/master/practicals/object_oriented_design/SS-diary-1.png) of the code in action! Understood splitting classes into relevant grouped methods, making the code easier to navigate/understand.
 4.
 
 ## Daily Goals
@@ -29,4 +29,4 @@
 - GOAL: Understand some basic principles of OO programming - encapsulation and SRP
 - PLAN: Use the morning to work through OO exercises, perhaps recording progress.
 - EVIDENCE: OOP repo in skills repository - updated with completed commit [here](https://github.com/DanGyi23/skills-workshops/tree/master/week-1/oop_1). Created instance of class and tested in IRB [here](https://github.com/DanGyi23/skills-workshops/blob/master/week-1/oop_1/IRB-test-Calc-Class.png). 
-- MORE EVIDENCE: Repo [here](https://github.com/DanGyi23/skills-workshops/tree/master/practicals/object_oriented_design) with [screengrab]https://github.com/DanGyi23/skills-workshops/blob/master/practicals/object_oriented_design/SS-diary-1.png of the code in action!
+- MORE EVIDENCE: Repo [here](https://github.com/DanGyi23/skills-workshops/tree/master/practicals/object_oriented_design) with [screengrab](https://github.com/DanGyi23/skills-workshops/blob/master/practicals/object_oriented_design/SS-diary-1.png) of the code in action!
