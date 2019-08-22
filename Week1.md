@@ -1,7 +1,7 @@
 # Week 1
 
 ## Weekly Goals
-1. Learn some basic TDD best practices <span style="color:green">**✓**</span>
+1. Learn some basic TDD best practices **✓**
 2. Debug some programs with errors - follow best practices **✓**
 3. Describe some basic OO principles like encapsulation, SRP **✓**
 4. Pair using the driver-navigator style **✓**
