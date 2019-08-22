@@ -13,7 +13,9 @@
 4. Each afternoon work for 3 hours with different paired partners, and follow best practices to maintain collaborative repos. Request feedback in a short Google Form from each of my pair partners.
 
 #### Evidence:
-1. Exhaustive step-wise Boris Bike challenge [here](https://github.com/DanGyi23/boris_bike_challenge) - commits demonstrate different stages of unit & feature testing. Completed as part of a pair.
+1. 
+- **Boris-Bikes** Exhaustive step-wise Boris Bike challenge [here](https://github.com/DanGyi23/boris_bike_challenge) - commits demonstrate different stages of unit & feature testing. Completed as part of a pair.
+- **Roman Numerals** TDD'd a very basic 1 to 10 Roman Numeral converter program. Practiced writing a test, failing it, then improving the code to make the test pass, until eventually all test criteria were passed and the code behaves as expected. Repo [here](https://github.com/DanGyi23/roman-numerals-tdd/tree/master)
 2. Debugged a couple of erroneous scripts - Screencaps [here](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/wk1-debug-cipher.mp4) and [here](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/wk1-debug-fizzbuzz.mp4)
 3. Two exercises with examples of understanding SRP and OOP principles for classes:
   - **Calculator** OOP repo in skills repository - updated with completed commit [here](https://github.com/DanGyi23/skills-workshops/tree/master/week-1/oop_1). Created instance of class and tested in IRB [here](https://github.com/DanGyi23/skills-workshops/blob/master/week-1/oop_1/IRB-test-Calc-Class.png). 
