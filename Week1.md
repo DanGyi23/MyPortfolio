@@ -25,18 +25,23 @@
 ## Daily Goals
 
 #### Tuesday 20th August
-- GOAL: To be able to debug something
+- GOAL: To be able to debug something **✓**
 - PLAN: Work through the debugging exercises - Fizzbuzz and Decoder
 - EVIDENCE: **Fizzbuzz/Decoder videos** Screencaps [here](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/wk1-debug-cipher.mp4) and [here](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/wk1-debug-fizzbuzz.mp4) - both debugged.
 
 #### Wednesday 21st August
-- GOAL: Understand some basic principles of OO programming - encapsulation and SRP
+- GOAL: Understand some basic principles of OO programming - encapsulation and SRP **✓**
 - PLAN: Use the morning to work through OO exercises, perhaps recording progress.
 - EVIDENCE: 
   * **Calculator** OOP repo in skills repository - updated with completed commit [here](https://github.com/DanGyi23/skills-workshops/tree/master/week-1/oop_1). Created instance of class and tested in IRB [here](https://github.com/DanGyi23/skills-workshops/blob/master/week-1/oop_1/IRB-test-Calc-Class.png). 
   * **Secret Diary** Repo [here](https://github.com/DanGyi23/skills-workshops/tree/master/practicals/object_oriented_design) with [screengrab](https://github.com/DanGyi23/skills-workshops/blob/master/practicals/object_oriented_design/SS-diary-1.png) of the code in action!
   
 #### Thursday 22nd August
-- GOAL: Improve understanding of instance variables and attr reader
+- GOAL: Improve understanding of instance variables and attr reader **✓**
 - PLAN: Read Ruby documentation on attr reader and continue to work through the Boris Bikes challenge
 - EVIDENCE: [Boris Bike repo](https://github.com/DanGyi23/boris-bikes2) - instance variables and attr reader set up correctly and tested correctly
+
+#### Friday 23rd August
+- GOAL: Test my knowledge of the 4 weekly learning objectives
+- PLAN: Complete new week1 practicals and practice RubberDucking with comments for each line of my code
+- EVIDENCE: Completed repos with new challenges as part of the skills workshop repo.
