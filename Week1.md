@@ -45,3 +45,4 @@
 - GOAL: Test my knowledge of the 4 weekly learning objectives
 - PLAN: Complete new week1 practicals and practice RubberDucking with comments for each line of my code
 - EVIDENCE: Completed repos with new challenges as part of the skills workshop repo.
+  * [Debugging exercise](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/Week1-Debug-Geocoder.mov)
