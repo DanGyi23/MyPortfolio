@@ -55,18 +55,24 @@
   
 ## Reflection
 
-#### Question
-Did you meet all of your goals to the standard you set at the start of the week?
-#### Answers
+
+### Question 1
+
+*Did you meet all of your goals to the standard you set at the start of the week?*
+
+
 - Yes, I feel far more confident with OOP particularly, which was an area of weakness I focused on to address. 
 - My TDD practices improved dramatically, and it was obvious that when creating large complex programs with multiple user demands, TDD will save so much time and improve code quality. 
 - I feel very confident using Rspec to debug programs, having completed all of the debugging practicals available for week1. 
 - I thoroughly enjoyed pair programming, and received some great feedback; I'm happy with the process improvement over the week, although I'll keep requesting feedback in order to improve!
 
-#### Question
-What would you change/improve moving forward?
-#### Answers
-**Technical**
+
+### Question 2
+
+*What would you change/improve moving forward?*
+
+
+**Technical:**
 - I'd love to improve my understanding of more Ruby syntax, in order to write code quicker
 - I often received syntax errors during testing due to rushing to write code, so taking more care is something I'll be more aware of moving forward
 - I'd consider some of the structures for shared classes that could be incorporated into modules, I found this really great for refactoring and it's something I wish I'd known at the start of the week!
