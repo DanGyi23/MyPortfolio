@@ -25,6 +25,7 @@
   - Completed repo for [**Boris Bikes challenge**](https://github.com/DanGyi23/boris-bikes2) with contributors, forked and updated.
 
 
+
 ## Daily Goals
 
 #### Tuesday 20th August
@@ -49,3 +50,27 @@
 - PLAN: Complete new week1 practicals and practice RubberDucking with comments for each line of my code
 - EVIDENCE: Completed repos with new challenges as part of the skills workshop repo.
   * [Debugging exercise](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/Week1-Debug-Geocoder.mov)
+  
+  
+  
+## Reflection
+
+#### Question
+Did you meet all of your goals to the standard you set at the start of the week?
+#### Answers
+- Yes, I feel far more confident with OOP particularly, which was an area of weakness I focused on to address. 
+- My TDD practices improved dramatically, and it was obvious that when creating large complex programs with multiple user demands, TDD will save so much time and improve code quality. 
+- I feel very confident using Rspec to debug programs, having completed all of the debugging practicals available for week1. 
+- I thoroughly enjoyed pair programming, and received some great feedback; I'm happy with the process improvement over the week, although I'll keep requesting feedback in order to improve!
+
+#### Question
+What would you change/improve moving forward?
+#### Answers
+**Technical**
+- I'd love to improve my understanding of more Ruby syntax, in order to write code quicker
+- I often received syntax errors during testing due to rushing to write code, so taking more care is something I'll be more aware of moving forward
+- I'd consider some of the structures for shared classes that could be incorporated into modules, I found this really great for refactoring and it's something I wish I'd known at the start of the week!
+
+**Personal:**
+- I'd be stricter with timekeeping and taking breaks
+- I'd make sure to agree with my pairing partner how frequently we'd switch between driver/navigator, to avoid unequal pairing
