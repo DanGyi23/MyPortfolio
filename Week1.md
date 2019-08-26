@@ -16,6 +16,7 @@
 1. 
 - **Boris-Bikes** Exhaustive step-wise Boris Bike challenge [here](https://github.com/DanGyi23/boris_bike_challenge) - commits demonstrate different stages of unit & feature testing. Completed as part of a pair.
 - **Roman Numerals** TDD'd a very basic 1 to 10 Roman Numeral converter program. Practiced writing a test, failing it, then improving the code to make the test pass, until eventually all test criteria were passed and the code behaves as expected. Repo [here](https://github.com/DanGyi23/roman-numerals-tdd/tree/master)
+- **Birthdays** TDD'd and implemented all features from a [Birthday challenge](https://github.com/DanGyi23/birthdays) - storing birthdays of people and checking if it's anybody's birthday today. I implemented a basic user interface for added complexity, calling different methods when the user selects a certain option. First commit shows tests written without any feature code.
 2. Debugged a couple of erroneous scripts - Screencaps [here](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/wk1-debug-cipher.mp4) and [here](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/wk1-debug-fizzbuzz.mp4)
 3. Two exercises with examples of understanding SRP and OOP principles for classes:
   - **Calculator** OOP repo in skills repository - updated with completed commit [here](https://github.com/DanGyi23/skills-workshops/tree/master/week-1/oop_1). Created instance of class and tested in IRB [here](https://github.com/DanGyi23/skills-workshops/blob/master/week-1/oop_1/IRB-test-Calc-Class.png). 
