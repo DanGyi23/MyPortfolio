@@ -19,11 +19,11 @@
 #### Evidence:
 
 1.
-2.
-3.
+2. [Forwarding & Polymorphism examples](https://github.com/DanGyi23/Object-Oriented-Design)
+3. Oyster card challenge demonstrates this really well; individual class spec files reference only the subject or mocked classes.*INSERT LINK*
 4.
-  - [Forwarding example](https://github.com/DanGyi23/Object-Oriented-Design)
-5.
+  - [Forwarding & Polymorphism examples](https://github.com/DanGyi23/Object-Oriented-Design)
+5. 
 
 ## Daily Goals
 
@@ -35,12 +35,12 @@
 #### Wednesday 28th August
 - GOAL: Break one class into two classes, maintaining unit test parity
 - PLAN: Use Oyster Card challenge as opportunity to refactor some Card class methods into Journey class methods.
-- EVIDENCE: 
+- EVIDENCE: Worked with Ben to refactor into 2 new classes - Journey and Journey_Log - ensuring SRP. Repo [here](https://github.com/ben-zeng/oystercard)
 
 #### Thursday 29th August
-- GOAL:
-- PLAN:
-- EVIDENCE:
+- GOAL: Understand class delegation
+- PLAN: Attend delegation workshop and complete some of the practicals from this week's skills-workshop repo
+- EVIDENCE: 
 
 #### Friday 30th August
 - GOAL:
