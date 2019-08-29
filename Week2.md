@@ -19,8 +19,10 @@
 #### Evidence:
 
 1.
-2. [Forwarding & Polymorphism examples](https://github.com/DanGyi23/Object-Oriented-Design)
-3. Oyster card challenge demonstrates this really well; individual class spec files reference only the subject or mocked classes.*INSERT LINK*
+2. 
+  - [Forwarding & Polymorphism examples](https://github.com/DanGyi23/Object-Oriented-Design)
+  - [Oystercard challenge](https://github.com/DanGyi23/oystercard-1) - examples of forwarding and dependency injection demonstrated here.
+3. Oyster card challenge demonstrates this really well; individual class spec files reference only the subject or mocked classes. [Complete repo here](https://github.com/DanGyi23/oystercard-1)
 4.
   - [Forwarding & Polymorphism examples](https://github.com/DanGyi23/Object-Oriented-Design)
 5. 
@@ -40,7 +42,7 @@
 #### Thursday 29th August
 - GOAL: Understand class delegation
 - PLAN: Attend delegation workshop and complete some of the practicals from this week's skills-workshop repo
-- EVIDENCE: 
+- EVIDENCE: [Oystercard challenge](https://github.com/DanGyi23/oystercard-1) - many delegation examples here.
 
 #### Friday 30th August
 - GOAL:
