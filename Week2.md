@@ -45,6 +45,6 @@
 - EVIDENCE: [Oystercard challenge](https://github.com/DanGyi23/oystercard-1) - many delegation examples here.
 
 #### Friday 30th August
-- GOAL:
-- PLAN:
+- GOAL: Understand class polymorphism
+- PLAN: Attend polymorphism workshop and practice using the week2 OOP practicals.
 - EVIDENCE:
