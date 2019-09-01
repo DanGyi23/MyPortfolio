@@ -41,15 +41,39 @@
 
 #### Wednesday 28th August
 - GOAL: Break one class into two classes, maintaining unit test parity
-- PLAN: Use Oyster Card challenge as opportunity to refactor some Card class methods into Journey class methods.
+- PLAN: Use Oyster Card challenge as opportunity to refactor some Card class methods into Journey class methods
 - EVIDENCE: Worked with Ben to refactor into 2 new classes - Journey and Journey_Log - ensuring SRP. Repo [here](https://github.com/ben-zeng/oystercard)
 
 #### Thursday 29th August
 - GOAL: Understand class delegation
 - PLAN: Attend delegation workshop and complete some of the practicals from this week's skills-workshop repo
-- EVIDENCE: [Oystercard challenge](https://github.com/DanGyi23/oystercard-1) - many delegation examples here.
+- EVIDENCE: [Oystercard challenge](https://github.com/DanGyi23/oystercard-1) - many delegation examples here
 
 #### Friday 30th August
 - GOAL: Understand class polymorphism
-- PLAN: Attend polymorphism workshop and practice using the week2 OOP practicals.
+- PLAN: Attend polymorphism workshop and practice using the week2 OOP practicals
 - EVIDENCE: [Polymorphism example](https://github.com/DanGyi23/Object-Oriented-Design)
+
+## Reflection
+
+
+### Question 1
+
+*Did you meet all of your goals to the standard you set at the start of the week?*
+
+- Almost, I only didn't complete some of the OOP practicals concerning refactoring, though I feel like this will come with more practice and as the challenges become more complex. At least I understand the principles that the exercises were designed to demonstrate/test
+
+
+### Question 2
+
+*What would you change/improve moving forward?*
+
+
+**Technical:**
+- Follow TDD processes slightly more strictly, as it clearly saves time in the long run, especially with more complex code
+- Understand RSpec method stubbing implementation and syntax a little better. I had to rely heavily on Google/examples
+- Attend more process workshops at Makers
+
+**Personal:**
+- Try not to finish everything - there's too much to complete and my learning was compromised at times by being too concerned with completion rather than the process
+- Spend more time understanding a problem/feature before starting to write code. I found that it meant I had to refactor less, and interdependencies were easier to map out 
