@@ -18,21 +18,26 @@
 
 #### Evidence:
 
-1.
+1. 
+  - TDD practices continued in both weekly and weekend challenges (Oyster card and Takeaway)
+  - Continued debugging systematically to make tests pass as part of TDDing new programs
+  - Improved understanding of OOP by refactoring, using dependency injection, understanding polymorphism etc.
+  - Paired each afternoon with someone different, and received very positive feedback!
 2. 
   - [Forwarding & Polymorphism examples](https://github.com/DanGyi23/Object-Oriented-Design)
   - [Oystercard challenge](https://github.com/DanGyi23/oystercard-1) - examples of forwarding and dependency injection demonstrated here.
 3. Oyster card challenge demonstrates this really well; individual class spec files reference only the subject or mocked classes. [Complete repo here](https://github.com/DanGyi23/oystercard-1)
 4.
   - [Forwarding & Polymorphism examples](https://github.com/DanGyi23/Object-Oriented-Design)
-5. 
+  - [Takeaway Challenge](https://github.com/DanGyi23/takeaway-challenge) - this repo contains code written to mimic a takeaway delivery service, complete with text message confirmation using Twilio API. Followed SRP to make sure the classes were lean and easy to understand.
+5. Completed this on Tuesday 27th Aug - held by Makers
 
 ## Daily Goals
 
 #### Tuesday 27th August
 - GOAL: Review another person's code
 - PLAN: Complete code review with peers, give and receive feedback on airport challenge
-- EVIDENCE: 
+- EVIDENCE: Completed this on Tuesday 27th Aug - held by Makers
 
 #### Wednesday 28th August
 - GOAL: Break one class into two classes, maintaining unit test parity
@@ -47,4 +52,4 @@
 #### Friday 30th August
 - GOAL: Understand class polymorphism
 - PLAN: Attend polymorphism workshop and practice using the week2 OOP practicals.
-- EVIDENCE:
+- EVIDENCE: [Polymorphism example](https://github.com/DanGyi23/Object-Oriented-Design)
