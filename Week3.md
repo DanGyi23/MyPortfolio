@@ -9,14 +9,14 @@
 
 #### Plans to achieve:
 
-1.
-2.
+1. Follow the steps [here](https://github.com/makersacademy/course/tree/master/intro_to_the_web) to create my own webapp.
+2. 
 3.
 4.
 
 #### Evidence:
 
-1.
+1. [Step](https://github.com/DanGyi23/week3-webapp/blob/master/screenshots/Screenshot%202019-09-02%20at%2016.11.34.png) by [step](https://github.com/DanGyi23/week3-webapp/blob/master/screenshots/Screenshot%202019-09-02%20at%2016.12.15.png) by [step](https://github.com/DanGyi23/week3-webapp/blob/master/screenshots/Screenshot%202019-09-02%20at%2018.16.31.png) creation of a simple web app!
 2.
 3.
 4.
@@ -24,9 +24,9 @@
 ## Daily Goals
 
 #### Monday 2nd September
-- GOAL:
-- PLAN:
-- EVIDENCE:
+- GOAL: Understand basics of HTTP and how client/server relationship works
+- PLAN: Work through challenges set for this week's intro to the web
+- EVIDENCE: [Evidence](https://github.com/DanGyi23/week3-webapp/commits/master) of using Sinatra/Shotgun and creating HTML to be pushed to the webpage once a server has been initialized
 
 #### Tuesday 3rd September
 - GOAL:
