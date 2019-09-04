@@ -11,8 +11,8 @@
 
 1. Follow the steps [here](https://github.com/makersacademy/course/tree/master/intro_to_the_web) to create my own webapp.
 2. 
-3.
-4.
+3. 
+4. Split Battle project into lib/spec/views folders and keep separate. [Repo here](https://github.com/DanGyi23/wk3-battle). The model here are Ruby classes that are being called by the controller (app.rb), which defines what happens on each page of the web app. The view is the files contained in the views folder, containing what is displayed in the browser when it's called.
 
 #### Evidence:
 
@@ -29,13 +29,13 @@
 - EVIDENCE: [Evidence](https://github.com/DanGyi23/week3-webapp/commits/master) of using Sinatra/Shotgun and creating HTML to be pushed to the webpage once a server has been initialized
 
 #### Tuesday 3rd September
-- GOAL:
-- PLAN:
-- EVIDENCE:
+- GOAL: Understand the model/view/controller pattern
+- PLAN: Work through creating Battle web app
+- EVIDENCE: Split project into lib/spec/views folders and keep separate. [Repo here](https://github.com/DanGyi23/wk3-battle)
 
 #### Wednesday 4th September
-- GOAL:
-- PLAN:
+- GOAL: Understand better how Sinatra and Capybara work
+- PLAN: Draw flow diagram to confirm understanding
 - EVIDENCE:
 
 #### Thursday 5th September
