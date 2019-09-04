@@ -16,8 +16,10 @@
 
 #### Evidence:
 
-1. [Step](https://github.com/DanGyi23/week3-webapp/blob/master/screenshots/Screenshot%202019-09-02%20at%2016.11.34.png) by [step](https://github.com/DanGyi23/week3-webapp/blob/master/screenshots/Screenshot%202019-09-02%20at%2016.12.15.png) by [step](https://github.com/DanGyi23/week3-webapp/blob/master/screenshots/Screenshot%202019-09-02%20at%2018.16.31.png) creation of a simple web app!
-2.
+1. 
+  - [Step](https://github.com/DanGyi23/week3-webapp/blob/master/screenshots/Screenshot%202019-09-02%20at%2016.11.34.png) by [step](https://github.com/DanGyi23/week3-webapp/blob/master/screenshots/Screenshot%202019-09-02%20at%2016.12.15.png) by [step](https://github.com/DanGyi23/week3-webapp/blob/master/screenshots/Screenshot%202019-09-02%20at%2018.16.31.png) creation of a simple web app!
+  - [Completed Battle App!](https://github.com/DanGyi23/battle_game)
+2. 
 3.
 4. Split Battle project into lib/spec/views folders and keep separate. [Repo here](https://github.com/DanGyi23/wk3-battle). The model here are Ruby classes that are being called by the controller (app.rb), which defines what happens on each page of the web app. The view is the files contained in the views folder, containing what is displayed in the browser when it's called.
 
@@ -36,7 +38,7 @@
 #### Wednesday 4th September
 - GOAL: Understand better how Sinatra and Capybara work
 - PLAN: Draw flow diagram to confirm understanding
-- EVIDENCE:
+- EVIDENCE: 
 
 #### Thursday 5th September
 - GOAL:
