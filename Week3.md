@@ -10,7 +10,7 @@
 #### Plans to achieve:
 
 1. Follow the steps [here](https://github.com/makersacademy/course/tree/master/intro_to_the_web) to create my own webapp.
-2. 
+2. Follow debugging practical to debug simple web app
 3. 
 4. Use Battle project to reinforce understanding of MVC pattern.
 
@@ -19,7 +19,7 @@
 1. 
   - [Step](https://github.com/DanGyi23/week3-webapp/blob/master/screenshots/Screenshot%202019-09-02%20at%2016.11.34.png) by [step](https://github.com/DanGyi23/week3-webapp/blob/master/screenshots/Screenshot%202019-09-02%20at%2016.12.15.png) by [step](https://github.com/DanGyi23/week3-webapp/blob/master/screenshots/Screenshot%202019-09-02%20at%2018.16.31.png) creation of a simple web app!
   - [Completed Battle App!](https://github.com/DanGyi23/battle_game)
-2. 
+2. [Debugging practical completed](https://github.com/DanGyi23/skills-workshops/tree/master/week-3/debugging_2)
 3.
 4. Split Battle project into lib/spec/views folders and keep separate. [Repo here](https://github.com/DanGyi23/wk3-battle). The model here are Ruby classes that are being called by the controller (app.rb), which defines what happens on each page of the web app. The view is the files contained in the views folder, containing what is displayed in the browser when it's called.
 
@@ -41,9 +41,9 @@
 - EVIDENCE: 
 
 #### Thursday 5th September
-- GOAL:
-- PLAN:
-- EVIDENCE:
+- GOAL: Complete half of the steps for the weekend challenge
+- PLAN: Use TDD to follow plan closely to complete build of app
+- EVIDENCE: [Completed repo here](https://github.com/DanGyi23/rps-challenge)
 
 #### Friday 6th September
 - GOAL:
