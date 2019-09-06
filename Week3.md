@@ -11,8 +11,8 @@
 
 1. Follow the steps [here](https://github.com/makersacademy/course/tree/master/intro_to_the_web) to create my own webapp.
 2. Follow debugging practical to debug simple web app
-3. 
-4. Use Battle project to reinforce understanding of MVC pattern.
+3. Read up on basics of web design, draw flow charts to ensure my understanding is complete
+4. Use Battle/RPS project to reinforce understanding of MVC pattern.
 
 #### Evidence:
 
