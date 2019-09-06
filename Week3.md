@@ -19,8 +19,9 @@
 1. 
   - [Step](https://github.com/DanGyi23/week3-webapp/blob/master/screenshots/Screenshot%202019-09-02%20at%2016.11.34.png) by [step](https://github.com/DanGyi23/week3-webapp/blob/master/screenshots/Screenshot%202019-09-02%20at%2016.12.15.png) by [step](https://github.com/DanGyi23/week3-webapp/blob/master/screenshots/Screenshot%202019-09-02%20at%2018.16.31.png) creation of a simple web app!
   - [Completed Battle App!](https://github.com/DanGyi23/battle_game)
+  - [Completed Rock, Paper, Scissors, Spock, Lizard app!](https://github.com/DanGyi23/rps-challenge) - slightly more complicated app with more attention paid to the layout/HTML on the views.
 2. [Debugging practical completed](https://github.com/DanGyi23/skills-workshops/tree/master/week-3/debugging_2)
-3.
+3. Effectively implemented GET/POST methods using sinatra/shotgun for all of this weeks tasks. Understand that when you visit a page you send a GET request, which retrieves any HTML with associated CSS styling that is defined as part of that view.
 4. Split Battle project into lib/spec/views folders and keep separate. [Repo here](https://github.com/DanGyi23/wk3-battle). The model here are Ruby classes that are being called by the controller (app.rb), which defines what happens on each page of the web app. The view is the files contained in the views folder, containing what is displayed in the browser when it's called.
 
 ## Daily Goals
@@ -38,7 +39,7 @@
 #### Wednesday 4th September
 - GOAL: Understand better how Sinatra and Capybara work
 - PLAN: Draw flow diagram to confirm understanding
-- EVIDENCE: 
+- EVIDENCE: On paper!
 
 #### Thursday 5th September
 - GOAL: Complete half of the steps for the weekend challenge
@@ -46,9 +47,9 @@
 - EVIDENCE: [Completed repo here](https://github.com/DanGyi23/rps-challenge)
 
 #### Friday 6th September
-- GOAL:
-- PLAN:
-- EVIDENCE:
+- GOAL: RPS challenge to look nicer
+- PLAN: Research different HTML syntax to help, implement on current views.
+- EVIDENCE: [Completed repo here](https://github.com/DanGyi23/rps-challenge)
 
 ## Reflection
 
