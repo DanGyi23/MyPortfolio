@@ -57,6 +57,10 @@
 
 *Did you meet all of your goals to the standard you set at the start of the week?*
 
+Yes, although if I had more time, I'd have spent it learning more HTML/CSS, and improving the look of my web apps. I do feel like I understand how the process works though.
+
 ### Question 2
 
 *What would you change/improve moving forward?*
+
+Spend a bit more time understanding theory behind some of the dependencies we're using each week. Might be a bit superfluous though, and I feel like I'm spending/rationing my time well at the moment.
