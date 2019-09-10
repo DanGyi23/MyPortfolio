@@ -24,12 +24,12 @@
 #### Monday 9th September
 - GOAL: Understand SQL a little better
 - PLAN: Read up about databases/SQL
-- EVIDENCE: [Link here to what I've read]
+- EVIDENCE: [Completed SQLZoo tests](https://sqlzoo.net/)
 
 #### Tuesday 10th September
-- GOAL:
-- PLAN:
-- EVIDENCE:
+- GOAL: Understand the Ruby/Database relationships in weekly code
+- PLAN: Ducktype every line of code in my weekly project
+- EVIDENCE: None
 
 #### Wednesday 11th September
 - GOAL:
