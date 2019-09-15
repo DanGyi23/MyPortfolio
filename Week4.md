@@ -8,16 +8,15 @@
 
 #### Plans to achieve:
 
-1.
-2.
-3.
+1. Build Bookmark Manager and Chitter App
+2. Practise debugging using capybara/sinatra test frameworks
+3. Create planning docs with each of my repos before any code written, understand the relational database and how it can be used.
 
 #### Evidence:
 
-
-1.
-2.
-3.
+1. [Bookmark Manager](https://github.com/DanGyi23/bookmark_manage) and [Chitter App](https://github.com/DanGyi23/chitter-challenge)
+2. Had to debug lots using Capybara, didn't record any of it though.
+3. Example of a [few planning images](https://github.com/DanGyi23/chitter-challenge/tree/master/planning/images) so that writing tests was easy. Found it very useful!
 
 ## Daily Goals
 
@@ -32,7 +31,7 @@
 - EVIDENCE: None
 
 #### Wednesday 11th September
-- GOAL:
+- GOAL: 
 - PLAN:
 - EVIDENCE:
 
