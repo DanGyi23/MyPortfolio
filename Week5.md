@@ -21,7 +21,7 @@
 #### Monday 16th September
 - GOAL: Understand *some* Javascript syntax and structure
 - PLAN: Write some JS!
-- EVIDENCE: 
+- EVIDENCE: Translated some Ruby common objects to JS [here](https://github.com/DanGyi23/translation_exercise)
 
 #### Tuesday 17th September
 - GOAL: 
