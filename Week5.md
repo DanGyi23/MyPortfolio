@@ -8,7 +8,7 @@
 
 #### Plans to achieve:
 
-1. 
+1. Work through thermostat challenge, creating a cool web-app.
 2. 
 
 #### Evidence:
