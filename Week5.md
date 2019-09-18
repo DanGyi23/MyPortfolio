@@ -1,4 +1,4 @@
-# Week 4
+# Week 5
 
 ## Weekly Goals
 
@@ -24,14 +24,14 @@
 - EVIDENCE: Translated some Ruby common objects to JS [here](https://github.com/DanGyi23/translation_exercise)
 
 #### Tuesday 17th September
-- GOAL: 
-- PLAN: 
-- EVIDENCE: 
+- GOAL: Understand encapsulation
+- PLAN: Write some JS that encapsulates behaviour within a constructor class
+- EVIDENCE: [Paired Airport Challenge](https://github.com/BigTallJim/AirportJS)
 
 #### Wednesday 18th September
-- GOAL: 
-- PLAN: 
-- EVIDENCE: 
+- GOAL: Understand Module Pattern 
+- PLAN: Complete skills workshop on Module pattern
+- EVIDENCE: [Workshop completed here](https://github.com/DanGyi23/module-pattern)
 
 #### Thursday 19th September
 - GOAL: 
