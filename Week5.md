@@ -34,9 +34,9 @@
 - EVIDENCE: [Workshop completed here](https://github.com/DanGyi23/module-pattern)
 
 #### Thursday 19th September
-- GOAL: 
-- PLAN: 
-- EVIDENCE: 
+- GOAL: Understand AJAX (Asynchronous Javascript and HTML) fundamentals
+- PLAN: Implement weather API for Thermostat project
+- EVIDENCE: [Thermostat Project](https://github.com/DanGyi23/thermostatjs)
 
 #### Friday 20th September
 - GOAL: 
