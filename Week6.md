@@ -23,7 +23,7 @@
 #### Monday 30th September
 - GOAL: Improve understanding of JS obj/prototype framework
 - PLAN: Work through JS Objects and Prototypes Practical
-- EVIDENCE: 
+- EVIDENCE: Completed these [here](https://hackmd.io/nb1VZarCTGicD6dMOo43Ww), and read up online.
 
 #### Tuesday 1st October
 - GOAL: 
