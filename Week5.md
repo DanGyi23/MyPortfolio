@@ -8,13 +8,13 @@
 
 #### Plans to achieve:
 
-1. Work through thermostat challenge, creating a cool web-app.
-2. 
+1. Work through thermostat challenge, creating a cool web-app (no pun intended).
+2. Use Thermostat/Bowling to learn JS, read lots of documentation on JS structures and best practices
 
 #### Evidence:
 
-1. 
-2. 
+1. [Thermostat Challenge Repo](https://github.com/DanGyi23/thermostatjs)
+2. [Bowling challenge here](https://github.com/DanGyi23/wk5-bowling)
 
 ## Daily Goals
 
@@ -39,19 +39,7 @@
 - EVIDENCE: [Thermostat Project](https://github.com/DanGyi23/thermostatjs)
 
 #### Friday 20th September
-- GOAL: 
-- PLAN: 
-- EVIDENCE: 
-
-## Reflection
-
-### Question 1
-
-*Did you meet all of your goals to the standard you set at the start of the week?*
-
-
-### Question 2
-
-*What would you change/improve moving forward?*
-
+- GOAL: Make progress on Bowling Challenge, introduce basic structure
+- PLAN: Create constructor classes and test framework
+- EVIDENCE: [Bowling Project](https://github.com/DanGyi23/wk5-bowling)
 
