@@ -4,7 +4,7 @@ This is my learning journey at Makers Academy.
 
 It includes examples of my work, challenges completed, and the processes I have learnt and developed while working towards the following goals.
 
-Click through to any of the following links for more detail.
+Click through to any of the Week.md links for more detail.
 
 ### My Goals
 #### 1. I can make anything
@@ -22,9 +22,3 @@ Click through to any of the following links for more detail.
 - I write code that is easy to change
 - I can justify the way I work
 - I grow collaboratively
-
-### Projects
-
-### Processes
-
-### Weekly Goals
