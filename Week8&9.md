@@ -1,4 +1,4 @@
-# Week 8
+# Weeks 8/9
 
 ## Weekly Goals
 
@@ -12,8 +12,8 @@
 
 #### Evidence:
 
-1.
-2. 
+1. Followed strict TDD process, using Travis CI and branch merge rules to protect master. [Repo here](https://github.com/DanGyi23/acebook-rails-template-railz-rude-boiz) with Travis CI passing for all completed merges
+2. Write a [goals/planning based wiki](https://github.com/DanGyi23/acebook-rails-template-railz-rude-boiz/blob/master/Learning-WIKI/Railz-Rude-Boiz-Wiki.md) to do with our learnings. I also wrote a [blog post](https://medium.com/@daniel.gyi/integrating-active-storage-with-your-existing-devise-framework-rails-bf9fc65a43c1)!
 
 
 ## Reflection
