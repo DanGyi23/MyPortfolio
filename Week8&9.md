@@ -13,7 +13,9 @@
 #### Evidence:
 
 1. Followed strict TDD process, using Travis CI and branch merge rules to protect master. [Repo here](https://github.com/DanGyi23/acebook-rails-template-railz-rude-boiz) with Travis CI passing for all completed merges
-2. Write a [goals/planning based wiki](https://github.com/DanGyi23/acebook-rails-template-railz-rude-boiz/blob/master/Learning-WIKI/Railz-Rude-Boiz-Wiki.md) to do with our learnings. I also wrote a [blog post](https://medium.com/@daniel.gyi/integrating-active-storage-with-your-existing-devise-framework-rails-bf9fc65a43c1)!
+2. 
+- Write a [goals/planning based wiki](https://github.com/DanGyi23/acebook-rails-template-railz-rude-boiz/blob/master/Learning-WIKI/Railz-Rude-Boiz-Wiki.md) to do with our learnings. I also wrote a [blog post](https://medium.com/@daniel.gyi/integrating-active-storage-with-your-existing-devise-framework-rails-bf9fc65a43c1)!
+- Recorded screencaps after week1 vs week2 to show progress w.r.t. feature implementation. [Week1](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/Functionality-end-of-week-1.mov)
 
 
 ## Reflection
